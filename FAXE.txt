@@ -1,0 +1,14 @@
+# this file documents my research on unused code in Friday Night Funkin' which runs on haxeflixel.
+in the project.xml file, there are unused libraries you can download and enable for windows/linux etc. clients.
+# FAXE
+faxe was a planned audio module (what i assume to be) for the nintendo switch port of FNF. unfortunately, that port was declined by nintendo.
+to recover FAXE and it's code (adding it as a plugin to haxe) run the following commands:
+haxelib git faxe https://github.com/uhrobots/faxe
+lime rebuild faxe windows
+go to project.xml and look for code:
+<haxelib name="faxe" if='switch'/>
+remove code:
+if='switch'
+the faxe code should become this:
+<haxelib name="faxe"/>
+# faxe is recovered and useable.
