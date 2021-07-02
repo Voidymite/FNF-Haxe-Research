@@ -1,0 +1,16 @@
+# UNLISTED.txt notes all unnoticable code in Projext.xml (unnoticable as in, grey text.)
+
+HXCPP DEBUG SERVER, MARKDOWN, HTMLPARSER, NAPE HAXE4
+
+these are simple to reinstall, but i have a small rundown on what one of them does:
+haxelib install nape-haxe4
+lime rebuild nape-haxe4 windows
+haxelib install markdown
+lime rebuild markdown windows
+haxelib install HtmlParser
+lime rebuild HtmlParser windows
+haxelib install hxcpp-debug-server
+lime rebuild hxcpp-debug-server windows
+-------------------------------------------------------------------------------
+the HXCPP debug server could potentially be used for debug copies of Friday Night Funkin. this library could possibly load extra extensions ifnot better load the debug mode. 
+just so you aren't confused, debug mode as in haxeflixel debug mode. not the charter provided in every copy of the game created. now that this is out of the way, you can move on and read about more of my research on FNF haxeflixel code.
