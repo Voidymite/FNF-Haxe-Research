@@ -1,0 +1,6 @@
+this code supports multiple engines:
+VANILLA FNF
+KADE ENGINE (1.5.4 as of release date)
+MIC'D UP (i don't have this ready, i will code this in and release soon.)
+CLOXEL ENGINE (soon, just soon.)
+this code supports multiple engines, so you should look at your code quickly before putting it in the incorrect engine.
