@@ -1,0 +1,6 @@
+-- 0.x.x (prior to week 6 update) dialogue boxes --
+
+Versions prior to the Week 6 update have a line of code with just the code:
+add(doof);
+
+This line of code is commented, and uncommenting it would enable dialogue for any song that has it.
